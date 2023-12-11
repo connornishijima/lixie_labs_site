@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://connornishijima.github.io/lixie_labs_site
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/img/lixie_labs_logo.png"
+logo: "/img/lixie_labs_logo_text.png"
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: labs
