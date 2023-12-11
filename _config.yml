@@ -1,16 +1,17 @@
-title: SENSORY BRIDGE
-description: A music visualizer from the future!
+title: LIXIE LABS
+description: Open-Source Displays and Toys
 theme: just-the-docs
 
-url: https://connornishijima.github.io/sensory_bridge_docs
+url: https://connornishijima.github.io/lixie_labs_site
 
-#logo: "/img/product.png"
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/img/lixie_labs_logo.png"
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: bridge
+color_scheme: labs
 
-ga_tracking: G-1C3WX4V60G
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+#ga_tracking: G-1C3WX4V60G
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 callouts_level: quiet
 
@@ -34,8 +35,8 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: Settings
-    url: https://settings.sensorybridge.rocks
+  - title: Sensory Bridge
+    url: https://sensorybridge.rocks
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
   - title: Mastodon
