@@ -1,5 +1,5 @@
 ---
-title: "<purchaselink>Purchase (60 USD)</purchaselink>"
+title: "Store"
 layout: page
 nav_order: 1
 ---
